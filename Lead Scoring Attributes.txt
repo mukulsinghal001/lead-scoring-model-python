@@ -1,0 +1,37 @@
+1) Lead Number - A lead number assigned to each lead procured.
+2) Lead Origin - The origin identifier with which the customer was identified to be a lead. Includes API, Landing Page Submission, etc.
+3) Lead Source - The source of the lead. Includes Google, Organic Search, Olark Chat, etc.
+4) Do Not Email -An indicator variable selected by the customer wherein they select whether of not they want to be emailed about the course or not.
+5) Do Not Call - An indicator variable selected by the customer wherein they select whether of not they want to be called about the course or not.
+6) Converted - The target variable. Indicates whether a lead has been successfully converted or not.
+7) TotalVisits - The total number of visits made by the customer on the website.
+8) Total Time Spent on Website - The total time spent by the customer on the website.
+9) Page Views Per Visit - Average number of pages on the website viewed during the visits.
+10) Last Activity - Last activity performed by the customer. Includes Email Opened, Olark Chat Conversation, etc.
+11) Country - The country of the customer.
+12) Specialization - The industry domain in which the customer worked before. Includes the level 'Select Specialization' which means the customer had not selected this option while filling the form.
+13) How did you hear about X Education - The source from which the customer heard about X Education.
+14) What is your current occupation - Indicates whether the customer is a student, umemployed or employed.
+15) What matters most to you in choosing this course An option selected by the customer - indicating what is their main motto behind doing this course.
+16) Search - Indicating whether the customer had seen the ad in any of the listed items.
+17) Magazine
+18) Newspaper Article
+19) X Education Forums
+20) Newspaper
+21) Digital Advertisement
+22) Through Recommendations - Indicates whether the customer came in through recommendations.
+23) Receive More Updates About Our Courses - Indicates whether the customer chose to receive more updates about the courses.
+24) Tags - Tags assigned to customers indicating the current status of the lead.
+25) Lead Quality - Indicates the quality of lead based on the data and intuition the employee who has been assigned to the lead.
+26) Update me on Supply Chain Content - Indicates whether the customer wants updates on the Supply Chain Content.
+27) Get updates on DM Content - Indicates whether the customer wants updates on the DM Content.
+28) Lead Profile - A lead level assigned to each customer based on their profile.
+29) City - The city of the customer.
+30) Asymmetric Activity Index - An index and score assigned to each customer based on their activity and their profile
+31) Asymmetric Profile Index
+32) Asymmetric Activity Score
+33) Asymmetric Profile Score
+34) I agree to pay the amount through cheque - Indicates whether the customer has agreed to pay the amount through cheque or not.
+35) a free copy of Mastering The Interview - Indicates whether the customer wants a free copy of 'Mastering the Interview' or not.
+36) Last Notable Activity - The last notable activity performed by the student.
+37) Prospect ID - A unique ID with which the customer is identified.
