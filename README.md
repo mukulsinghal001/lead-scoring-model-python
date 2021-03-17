@@ -34,5 +34,5 @@ For this case study we're going to use several classification model to predict w
 
 ### Notebooks:
 1) <a href = "https://github.com/mukulsinghal001/lead-scoring-model/blob/main/Lead%20Scoring%20Data%20-%20EDA%20%2B%20Feature%20Engineering%20%2B%20Outlier%20Analysis.ipynb">Exploratory Data Analysis + Feature Engineering + Outlier Analysis Notebook
-2) <a href = "https://github.com/mukulsinghal001/lead-scoring-model/blob/main/Lead%20Scoring%20Classification%20Model%20Diagnosis%20with%20%20Probability%20Calibration%20%26%20ROC_AUC%20%2B%20PR%20Plot.ipynb">Model Diagnosis Notebook
-3) <a href = "https://github.com/mukulsinghal001/lead-scoring-model/blob/main/Lead%20Scoring%20Classification%20Model%20with%2092%25%20Accuracy%20using%20RandomForest.ipynb"> Final Classification Model Notebook
+2) <a href = "https://github.com/mukulsinghal001/lead-scoring-model/blob/main/Lead%20Scoring%20Classification%20Model%20Diagnosis%20with%20%20Probability%20Calibration%20%26%20ROC_AUC%20%2B%20PR%20Plot.ipynb">Lead Scoring Model Diagnosis Notebook
+3) <a href = "https://github.com/mukulsinghal001/lead-scoring-model/blob/main/Lead%20Scoring%20Classification%20Model%20with%2092%25%20Accuracy%20using%20RandomForest.ipynb"> Final Lead Scoring Model Notebook
